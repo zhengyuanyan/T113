@@ -1,0 +1,10 @@
+
+#include "t113-s3-kickpi-k4b-uboot-board.dtsi"
+
+// #include "t113-s3-kickpi-lcd-lvds-7-1024-600.dtsi"
+//#include "t113-s3-kickpi-lcd-mipi-10-800-1280.dtsi"
+//#include "t113-s3-kickpi-lcd-mipi-8-800-1280.dtsi"
+//#include "t113-s3-kickpi-lcd-tv-out.dtsi"
+
+#include "t113-s3-kickpi-lcd-mipi-4-720-720.dtsi"
+//#include "t113-s3-kickpi-lcd-mipi-2-1-480x480.dtsi"
